@@ -1,0 +1,23 @@
+C:\Users\Dima\Downloads\ProcessManager\ProcessManager\bin\Debug\ProcessManager.exe
+C:\Users\Dima\Downloads\ProcessManager\ProcessManager\bin\Debug\ProcessManager.pdb
+C:\Users\Dima\Downloads\ProcessManager\ProcessManager\obj\x86\Debug\ProcessManager.Form1.resources
+C:\Users\Dima\Downloads\ProcessManager\ProcessManager\obj\x86\Debug\ProcessManager.Properties.Resources.resources
+C:\Users\Dima\Downloads\ProcessManager\ProcessManager\obj\x86\Debug\ProcessManager.csproj.GenerateResource.Cache
+C:\Users\Dima\Downloads\ProcessManager\ProcessManager\obj\x86\Debug\ProcessManager.exe
+C:\Users\Dima\Downloads\ProcessManager\ProcessManager\obj\x86\Debug\ProcessManager.pdb
+D:\ООП курсач кисм 2 курс\прога\ProcessManager\obj\x86\Debug\ProcessManager.exe
+D:\ООП курсач кисм 2 курс\прога\ProcessManager\obj\x86\Debug\ProcessManager.pdb
+D:\ООП курсач кисм 2 курс\прога\ProcessManager\bin\Debug\ProcessManager.exe
+D:\ООП курсач кисм 2 курс\прога\ProcessManager\bin\Debug\ProcessManager.pdb
+D:\ООП курсач кисм 2 курс\прога\ProcessManager\obj\x86\Debug\ProcessManager.csprojResolveAssemblyReference.cache
+D:\ООП курсач кисм 2 курс\прога\ProcessManager\obj\x86\Debug\ProcessManager.Form1.resources
+D:\ООП курсач кисм 2 курс\прога\ProcessManager\obj\x86\Debug\ProcessManager.Properties.Resources.resources
+D:\ООП курсач кисм 2 курс\прога\ProcessManager\obj\x86\Debug\ProcessManager.csproj.GenerateResource.Cache
+E:\Dropbox\ООП курсач кисм 2 курс\прога\ProcessManager\obj\x86\Debug\ProcessManager.exe
+E:\Dropbox\ООП курсач кисм 2 курс\прога\ProcessManager\obj\x86\Debug\ProcessManager.pdb
+E:\Dropbox\ООП курсач кисм 2 курс\прога\ProcessManager\bin\Debug\ProcessManager.exe
+E:\Dropbox\ООП курсач кисм 2 курс\прога\ProcessManager\bin\Debug\ProcessManager.pdb
+E:\Dropbox\ООП курсач кисм 2 курс\прога\ProcessManager\obj\x86\Debug\ProcessManager.csprojResolveAssemblyReference.cache
+E:\Dropbox\ООП курсач кисм 2 курс\прога\ProcessManager\obj\x86\Debug\ProcessManager.Form1.resources
+E:\Dropbox\ООП курсач кисм 2 курс\прога\ProcessManager\obj\x86\Debug\ProcessManager.Properties.Resources.resources
+E:\Dropbox\ООП курсач кисм 2 курс\прога\ProcessManager\obj\x86\Debug\ProcessManager.csproj.GenerateResource.Cache
